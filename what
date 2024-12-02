@@ -1,0 +1,19 @@
+<doctype:html!>
+<html>
+<title>
+(print'wow')
+body
+{
+    background-color:red
+    }
+h1{
+    font-family:"Times New Roman"
+    font-sie:200px
+    text-align:center
+    color:yellow
+    }
+</title>
+<body>
+<h1 font-size:200px color:'yellow'>LET US BE COMMUNIST</h1>
+</body>
+</html>
